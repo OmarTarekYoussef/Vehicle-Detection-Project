@@ -14,6 +14,8 @@ The goals of this project are the following:
 * Multiple window scaled, to ensure we detect both closeby and distant images.
 * 80% xy overlap, through trial and error
 
+# Testing Data
+Link: https://drive.google.com/file/d/1gIyMqxqxClA7os5CgK3VqzigP58TBqjH/view
 
 ### Contributures:
 * Ahmed Mohammed Ahmed Abass    -    1700159
